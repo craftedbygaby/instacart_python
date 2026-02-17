@@ -1,4 +1,4 @@
-#  Instacart Grocery Basket Analysis (https://www.kaggle.com/datasets/instacart/instacart-market-basket-analysis)
+#  Instacart Grocery Basket Analysis ![Instacart Logo](https://upload.wikimedia.org/wikipedia/commons/8/82/Instacart_Logo.png)
 
 **Project:** CareerFoundry Data Immersion Program – Achievement 4  
 **Objective:** Analyze Instacart customer behavior to inform targeted marketing and optimize sales.
