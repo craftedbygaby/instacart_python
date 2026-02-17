@@ -1,4 +1,5 @@
-#  ![Instacart Logo](/instacart_logo.png) Instacart Grocery Basket Analysis
+![Instacart Logo](/instacart_logo.png) 
+#  Instacart Grocery Basket Analysis
 
 **Project:** CareerFoundry Data Immersion Program – Achievement 4  
 **Objective:** Analyze Instacart customer behavior to inform targeted marketing and optimize sales.
